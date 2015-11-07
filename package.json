@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-media-capture",
+  "version": "1.0.1",
+  "description": "Cordova Media Capture Plugin",
+  "cordova": {
+    "id": "cordova-plugin-media-capture",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apache/cordova-plugin-media-capture"
+  },
+  "keywords": [
+    "cordova",
+    "media",
+    "capture",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "peerDependencies": {
+    "cordova-plugin-file": ">=2.0.0"
+  },
+  "author": "Apache Software Foundation",
+  "license": "Apache 2.0"
+}
